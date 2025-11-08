@@ -2,16 +2,22 @@
 Fog it up when a boss spawns in.
 
 Requires:
+
 Slender Fortress 2 Modified - 1.8.0 Alpha 2 branch (https://github.com/Mentrillum/Slender-Fortress-Modified-Versions/tree/1-8-0-rewrite)
 
 CBaseNPC (https://github.com/TF2-DMB/CBaseNPC)
 
 How to use:
+
 Place this into your scripting folder in addons/sourcemod in the server files
+
 Compile with a compiler of your choice. I personally use Visual Studio Code
+
 After this is compiled, the "global_fog" section will work with bosses. Documentation is below.
 
+
 TODO:
+
 Make a branch for 1.9.0 Alpha (1-8-0-alpha-3)
 
 DOCUMENTATION
