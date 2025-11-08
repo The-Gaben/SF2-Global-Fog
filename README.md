@@ -3,6 +3,7 @@ Fog it up when a boss spawns in.
 
 Requires:
 Slender Fortress 2 Modified - 1.8.0 Alpha 2 branch (https://github.com/Mentrillum/Slender-Fortress-Modified-Versions/tree/1-8-0-rewrite)
+
 CBaseNPC (https://github.com/TF2-DMB/CBaseNPC)
 
 How to use:
